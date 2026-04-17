@@ -50,8 +50,8 @@ It includes **user authentication (SQLite)**, **chat history**, and **customizab
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/your-username/study-assistant.git
-   cd study-assistant
+   git clone https://github.com/your-username/ai-study-assistant.git
+   cd ai-study-assistant
    ```
 
 2. **Create Virtual Environment (Optional but Recommended)**
